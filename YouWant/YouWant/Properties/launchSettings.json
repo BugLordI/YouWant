@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "YouWant": {
+      "commandName": "Project",
+      "commandLineArgs": "--local:zh-cn"
+    }
+  }
+}
